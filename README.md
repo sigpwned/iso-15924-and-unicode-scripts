@@ -12,7 +12,7 @@ I needed a trustworthy dataset in machine-readable format(s) with the following 
 
 ## The Dataset
 
-There were many good options, like [wooorm/iso-15924](https://github.com/wooorm/iso-15924), but none that matched all my needs. (Or at least not oune I could find.) So [I made one myself](https://xkcd.com/927/). It attempts to address the following needs:
+There were many good options, like [wooorm/iso-15924](https://github.com/wooorm/iso-15924), but none that matched all my needs. (Or at least none that I could find.) So [I made one myself](https://xkcd.com/927/). It attempts to address the following needs:
 
 * Free -- This dataset is released under the Creative Commons CC0 license.
 * All ISO 15924 codes -- All ISO codes in the standard are in this document, and vice-versa.
