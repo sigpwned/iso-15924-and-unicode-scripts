@@ -1,0 +1,12 @@
+# Text editors
+*~
+
+# HTML files are automatically generated
+*.html
+
+# JSON files are automatically generated
+*.json
+*.jsonl
+
+# CSV files are automatically generated
+*.csv
