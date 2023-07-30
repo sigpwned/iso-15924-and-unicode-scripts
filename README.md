@@ -30,7 +30,7 @@ The dataset is comprised of the following data files:
 * `scripts.json` -- This is the same as `scripts.jsonl`, but all values are wrapped in one top-level array.
 * `scripts.min.json` -- This is the same as `scripts.json`, but minified.
 * `scripts.csv` This is the same as `scripts.jsonl`, but the file format in CSV as opposed to JSON.
-* 
+
 ### Downloading
 
 You can get the data a few different ways:
