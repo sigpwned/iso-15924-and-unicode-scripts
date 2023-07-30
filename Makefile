@@ -1,10 +1,10 @@
 all: scripts.jsonl scripts.json scripts.min.json scripts.csv
 
-Scripts_%28Unicode%29.html:
-	curl -o Scripts_%28Unicode%29.html 'https://en.wikipedia.org/w/index.php?title=Script_(Unicode)&oldid=1110671885'
+ISO_15924.html:
+	curl -o ISO_15924.html 'https://en.wikipedia.org/w/index.php?title=ISO_15924&oldid=1127582355'
 
-scripts.jsonl: Scripts_%28Unicode%29.html
-	python3 build.py Scripts_%28Unicode%29.html > scripts.jsonl
+scripts.jsonl: ISO_15924.html
+	python3 build.py ISO_15924.html > scripts.jsonl
 
 scripts.json: scripts.jsonl
 	cat scripts.jsonl | jq -s . > scripts.json

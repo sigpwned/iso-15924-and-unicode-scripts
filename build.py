@@ -21,7 +21,7 @@ soup = None
 with open(wikipage, "rb") as file:
     soup = BeautifulSoup(file, "html.parser")
 
-header = soup.find(id="List_of_scripts_in_Unicode").parent
+header = soup.find(id="List_of_codes").parent
 table = header.find_next("table")
 for row in table.select("tr[id]"):
     cells = row.find_all("td", recursive=False)
