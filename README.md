@@ -17,7 +17,7 @@ There were many good options, like [wooorm/iso-15924](https://github.com/wooorm/
 * Free -- This dataset is released under the Creative Commons CC0 license.
 * All ISO 15924 codes -- All ISO codes in the standard are in this document, and vice-versa.
 * All Unicode scripts -- All Unicode scripts in the standard are in this document, and vice-versa.
-*  Clear provenance -- Data is pulled from [`https://en.wikipedia.org/wiki/ISO_15924`](https://en.wikipedia.org/wiki/ISO_15924)`
+*  Clear provenance -- Data is pulled from [`https://en.wikipedia.org/wiki/ISO_15924`](https://en.wikipedia.org/wiki/ISO_15924)
 * Easy-to-use -- Data is available in simple JSON and CSV formats.
 
 These data should help users to plan, build, and implement support for Unicode scripts quickly and easily.
