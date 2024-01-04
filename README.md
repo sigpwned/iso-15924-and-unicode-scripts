@@ -41,7 +41,7 @@ You can get the data a few different ways:
 
 ## The License
 
-The data is available under the Creative Commons CC0 license. This places the data into the public domain, so you can do whatever you'd like with it, but I'd appreciate a note if you find it useful! You can open a ticket to say hello 👋 if nothing else.
+The data is available under the Creative Commons CC0 license. This places the data into the public domain, so you can do whatever you'd like with it, but I'd appreciate a note if you find it useful! An issue saying "Hello" is great!
 
 ## Maintenance
 
